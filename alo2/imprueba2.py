@@ -1,3 +1,0 @@
-def imp2 (x: int, y: float):
-    print(x+y)
-    pass
